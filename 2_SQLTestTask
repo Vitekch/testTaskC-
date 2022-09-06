@@ -1,0 +1,1 @@
+SELECT p.name AS Продукт, c.name AS Категория  FROM products AS p LEFT JOIN categories AS c;
